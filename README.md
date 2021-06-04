@@ -144,8 +144,8 @@ Note your **Search resource name**. You will need this to connect the Azure Func
     |Enter the name for the new Static Web App.|Create a unique name for your resource. For example, you can prepend your name to the repository name such as, `vaibsmca-azure-search-dotnet-samples`. |
     |Select a resource group for new resources.|Use the resource group you created for this tutorial.|
     |Choose build preset to configure default project structure.|Select **Custom**|
-    |Select the location of your application code|`search-website`|
-    |Select the location of your Azure Function code|`search-website/api`|
+    |Select the location of your application code|`/`|
+    |Select the location of your Azure Function code|`/api`|
     |Enter the path of your build output...|build|
     |Select a location for new resources.|Select a region close to you.|
 
